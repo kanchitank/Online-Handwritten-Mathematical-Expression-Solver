@@ -1,6 +1,6 @@
-# Handwritten Mathematical Equation Solver
+# Online Handwritten Mathematical Expression Solver
 
-### This project aims to build a calculator using neural networks that takes handwritten numbers as input and can solve basic mathematical equations.
+### This project aims to build a calculator using artificial neural network that takes handwritten numbers as input and can solve basic mathematical expressions.
 
 #### Data Set: MNIST handwritten digits.
 
